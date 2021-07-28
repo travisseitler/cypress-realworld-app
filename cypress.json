@@ -3,7 +3,7 @@
   "projectId": "7s5okt",
   "integrationFolder": "cypress/tests",
   "viewportHeight": 1000,
-  "viewportWidth": 1280,
+  "viewportWidth": 1600,
   "firefoxGcInterval": null,
   "retries": {
     "runMode": 2,
